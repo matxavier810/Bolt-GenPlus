@@ -35,7 +35,7 @@ export default function About() {
             <div className="space-y-4 text-lg text-gray-600 leading-relaxed">
               <p>
                 GenPlus Solutions Inc. is your trusted partner for comprehensive IT services and solutions.
-                With over 15 years of experience, we've helped hundreds of businesses transform their operations
+                With over 1 years of experience, we've helped hundreds of businesses transform their operations
                 through technology.
               </p>
               <p>
