@@ -38,7 +38,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl text-gray-600 mb-10 leading-relaxed max-w-3xl mx-auto">
-            From custom software development to industrial computing solutions and digital imaging services,
+            From custom software development to industrial computing solutions and intelligent automation,
             we provide comprehensive IT solutions tailored to your business needs.
           </p>
 

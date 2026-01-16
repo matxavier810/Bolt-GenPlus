@@ -34,19 +34,19 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-lg text-gray-600 leading-relaxed">
               <p>
-                GenPlus Solutions Inc. is your trusted partner for comprehensive IT services and solutions.
-                With over 1 years of experience, we've helped hundreds of businesses transform their operations
-                through technology.
+                GenPlus Solutions Inc. is an emerging startup committed to delivering comprehensive IT services and
+                innovative technology solutions. Though we're a new company, we've assembled a team of experienced
+                professionals and skilled engineers ready to tackle your most complex challenges.
               </p>
               <p>
-                Our diverse service portfolio spans custom software development, IT consulting, industrial computing
-                solutions, and digital imaging services. This unique combination allows us to serve as a one-stop
-                solution for all your technology needs.
+                Our service portfolio includes custom software development, industrial computing solutions, IT consulting,
+                and automation services. We bring fresh perspectives combined with proven expertise to help businesses
+                transform their operations through technology.
               </p>
               <p>
-                Whether you're looking to build a custom application, upgrade your industrial computing infrastructure,
-                find the right talent for your team, or create professional marketing materials, our experienced team
-                is ready to deliver exceptional results.
+                Whether you're looking to build a custom application, implement rugged computing solutions, receive
+                strategic IT guidance, or automate your data workflows, our experienced team is ready to deliver
+                exceptional results and grow alongside your business.
               </p>
             </div>
           </div>

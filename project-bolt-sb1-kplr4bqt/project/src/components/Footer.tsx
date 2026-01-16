@@ -5,10 +5,10 @@ export default function Footer() {
 
   const footerLinks = {
     services: [
-      'Software Development',
-      'Consulting Services',
-      'Industrial Computing',
-      'Digital Imaging & Printing',
+      'Custom Software & App Development',
+      'Industrial & Rugged Computing',
+      'IT Consulting & Strategic Support',
+      'Automation & Data Visualization',
     ],
     company: [
       'About Us',
@@ -41,8 +41,8 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
-              Your trusted partner for comprehensive IT services and solutions.
-              Transforming businesses through innovative technology since 2010.
+              An emerging startup with experienced professionals delivering comprehensive
+              IT services and innovative technology solutions for modern businesses.
             </p>
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-sm">

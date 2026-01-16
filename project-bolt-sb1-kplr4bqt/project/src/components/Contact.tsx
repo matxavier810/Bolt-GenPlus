@@ -91,7 +91,7 @@ export default function Contact() {
               <ul className="space-y-3 text-blue-50">
                 <li className="flex items-start">
                   <CheckCircle className="w-5 h-5 mr-2 flex-shrink-0 mt-0.5" />
-                  <span>15+ years of industry experience</span>
+                  <span>Experienced engineers and professionals</span>
                 </li>
                 <li className="flex items-start">
                   <CheckCircle className="w-5 h-5 mr-2 flex-shrink-0 mt-0.5" />
@@ -103,7 +103,7 @@ export default function Contact() {
                 </li>
                 <li className="flex items-start">
                   <CheckCircle className="w-5 h-5 mr-2 flex-shrink-0 mt-0.5" />
-                  <span>Proven track record of success</span>
+                  <span>Fresh perspectives and innovative solutions</span>
                 </li>
               </ul>
             </div>
@@ -174,10 +174,10 @@ export default function Contact() {
                     className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-200 outline-none transition-all bg-white"
                   >
                     <option value="">Select a service</option>
-                    <option value="software">Software Development</option>
-                    <option value="consulting">Consulting Services</option>
-                    <option value="hardware">Industrial Computing</option>
-                    <option value="printing">Digital Imaging & Printing</option>
+                    <option value="software">Custom Software & App Development</option>
+                    <option value="hardware">Industrial & Rugged Computing</option>
+                    <option value="consulting">IT Consulting & Strategic Support</option>
+                    <option value="automation">Automation & Data Visualization</option>
                     <option value="other">Other</option>
                   </select>
                 </div>
